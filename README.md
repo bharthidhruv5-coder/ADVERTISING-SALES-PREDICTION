@@ -3,7 +3,6 @@
 ### Machine Learning Project | Python | Data Science
 
 ## 📌 Project Overview
-
 Advertising Sales Prediction is a Machine Learning project that predicts product sales based on advertising expenditure across different marketing channels.
 
 The project analyzes the relationship between advertising budgets and sales to help businesses understand how advertising investments can influence sales performance.
